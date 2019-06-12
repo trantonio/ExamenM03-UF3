@@ -1,0 +1,28 @@
+ID:TIPUS:TITOL:AUTOR:PREU:STOCK 
+DB02:Database:Easy DB:C. J. Wallis:49.95:10 
+DB04:Database:Postgres:P. Ronny:45.99:2 
+DB05:Database:Database Processing:D. Kroenke:136.65:12 
+DB07:Database:Access Database Design:S. Roman:34.95:25 
+DB09:Database:SQL Server 2005:P. Debetta:29.99:0 
+GR01:Graphics:Adobe Photoshop CS2:Adobe:29.99:4 
+GR04:Graphics:Macromedia Flash Professional:T. Green:44.99:17 
+GR07:Graphics:Digital Photographer Handbook:M. Freeman:24.95:22 
+GR10:Graphics:Creating Motion Graphics:T. Meyer:59.95:13 
+HW02:Hardware:How Computers Work:R. White:29.99:8 
+HW04:Hardware:Upgrading and Repairing PCs:S. Mueller:59.99:5 
+HW05:Hardware:USB System Architecture:D. Anderson:49.99:1 
+HW08:Hardware:GPU speeding:R. Weston:45.95:5 
+SW03:Software:Java How to Program:Deitel:98.59:9 
+SW04:Software:C Programming Language:B. Kernighan:44.25:12 
+SW09:Software:Programming PHP:R. J. Lerdorf:39.95:17 
+SW12:Software:Visual Basic.NET Programming:P. Vick:49.99:13 
+SW13:Software:Programming in Haskell:P. Forest:33.99:10 
+SY02:Systems:The UNIX Operating System:J. D. Peek:19.95:12 
+SY03:Systems:Windows Server 2003:W. R. Stanek:29.99:25 
+SY04:Systems:Linux in a Nutshell:S. Figgins:44.95:1 
+SY05:Systems:Mastering Active Directory:R. R. King:49.99:8 
+WB01:Web:Ajax in Action:D. Crane:22.67:14 
+WB02:Web:Professional ASP.NET 2.0:B. Evjen:32.99:21 
+WB05:Web:Cascading Style Sheets:E. A. Meyer:39.95:6 
+WB06:Web:Ajax in a nutshell:J. Pierce:43.99:12
+WB08:Web:Java EE:D. Romero:39.99:7
